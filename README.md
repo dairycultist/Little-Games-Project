@@ -9,6 +9,5 @@ For a game to fit the LGP spec:
 - It must not use hardware rendering (e.g. OpenGL, Vulkan, or any other GPU API)
 - The main gameplay must not require an internet connection (but extra features, like multiplayer, may rely on the internet)
 
-## Frameworks
-
-Planned: C, Node.js, Java
+> [!TIP]
+> This repository contains frameworks that follow the spec in various languages (currently only C; Node.js and Java are planned). There may still be bugs...
